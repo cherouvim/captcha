@@ -1,4 +1,4 @@
-captcha implementation as a Java Servlet.
+captcha implementation as a Java Servlet...
 
 demo:
 http://www.toolip.gr/captcha?complexity=99&size=60&length=9

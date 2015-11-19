@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Created on October 20, 2007, 7:48 PM
+ * Created on October 20, 2007, 7:48 PM.
  *
  * @author jc
  */
